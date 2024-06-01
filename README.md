@@ -19,11 +19,10 @@ The Weather Project is a comprehensive application designed to provide real-time
   4. Displays weather information and corresponding weather images.
   5. If the location is not found ,a undefined msg is shown.
 ## Preview
-  
+  ![Screenshot (172)](https://github.com/Nikitak1012/Weather/assets/171419805/6168d0a3-e844-4ec4-93f7-31c4ef50d1e1)
 
 ## Contributing
 
-Feel free![Screenshot (172)](https://github.com/Nikitak1012/Weather/assets/171419805/6168d0a3-e844-4ec4-93f7-31c4ef50d1e1)
- to contribute to the project by opening issues, providing feedback, or submitting pull request to enhance the Weather App.
+Feel free to contribute to the project by opening issues, providing feedback, or submitting pull request to enhance the Weather App.
 
 
