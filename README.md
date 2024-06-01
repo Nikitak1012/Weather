@@ -20,6 +20,8 @@ The Weather Project is a comprehensive application designed to provide real-time
   5. If the location is not found ,a undefined msg is shown.
 ## Preview
   ![Screenshot (172)](https://github.com/Nikitak1012/Weather/assets/171419805/6168d0a3-e844-4ec4-93f7-31c4ef50d1e1)
+  
+![Screenshot (173)](https://github.com/Nikitak1012/Weather/assets/171419805/599d685b-71c0-4235-a6a1-41eefb21990d)
 
 ## Contributing
 
